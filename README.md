@@ -1,5 +1,11 @@
 # API for a PWA app
 
+--------------------------------------------------------
+
+* API available at https://apples-api.herokuapp.com
+
+--------------------------------------------------------
+
 * `GET` `/api/alphabets`
 
 Get all alphabets
